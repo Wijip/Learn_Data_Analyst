@@ -13,4 +13,5 @@ print(f'\nNo 3.1:\n{data}')
 print(f'\nNo 4.1:\n{data.add(tambah, fill_value=0)}')
 print(f'\nNo 4.2:\n{data.subtract(tambah, fill_value=0)}')
 
+
 # ganti = data.replace()
